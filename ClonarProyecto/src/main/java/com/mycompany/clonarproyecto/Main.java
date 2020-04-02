@@ -17,6 +17,10 @@ public class Main {
         System.out.println("Diego Alejandro Samayoa Gómez");
         System.out.println("Cambote zona 11, Huehutenango");
         System.out.println("3130-8640");
+        
+        System.out.println("Marvin Arnoldo Ordoñez Jimenez");
+        System.out.println("zona 8, Huehutenango");
+        System.out.println("48548846");
     }
     
 }
