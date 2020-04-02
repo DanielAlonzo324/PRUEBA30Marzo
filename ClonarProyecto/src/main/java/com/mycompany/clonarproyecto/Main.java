@@ -29,6 +29,10 @@ public class Main {
         System.out.println("Denis Joel Cifuentes Cano");
         System.out.println("Zona 1, Chiantla");
         System.out.println("4588396");
+        
+        System.out.println("Nombre: Yoisy Yareny Lopez Herrea");
+        System.out.println("Direccion, Zona 4, Huehuetenango");
+        System.out.println("Telefono: 45517447");
     }
     
 }
