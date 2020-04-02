@@ -14,6 +14,9 @@ public class Main {
         System.out.println("11 CALLE 2-43 ZONA 5 COLONIA LOS ENCINOS");
         System.out.println("33361433");
         
+        System.out.println("Diego Alejandro Samayoa Gómez");
+        System.out.println("Cambote zona 11, Huehutenango");
+        System.out.println("3130-8640");
     }
     
 }
