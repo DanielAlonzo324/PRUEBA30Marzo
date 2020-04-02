@@ -21,6 +21,10 @@ public class Main {
         System.out.println("Marvin Arnoldo Ordoñez Jimenez");
         System.out.println("zona 8, Huehutenango");
         System.out.println("48548846");
+        
+        System.out.println("Nombre: Abner Obed Dominguez Rodriguez");
+        System.out.println("Dirección: Colonia El Oasis, Zona 8, Huehuetenango");
+        System.out.println("Telefono: 42252923");
     }
     
 }
